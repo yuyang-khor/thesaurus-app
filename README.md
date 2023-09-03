@@ -1,4 +1,4 @@
-#Thesaurus APP
+# Thesaurus APP
 
 Thesaurus Based Text Processing Application with data structures and algorithms in Python
 
